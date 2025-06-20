@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, My name is Ahmed.
 
 **A passionate data science student at AUC**
 
