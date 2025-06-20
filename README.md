@@ -11,4 +11,4 @@
 - 📫 How to reach me: ahmed1212132014@gmail.com
 - 👨‍💻 All of my projects are available at: [GitHub](https://github.com/Ahmedayman55)
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ahmedayman2272003/)
-- ⚡ Fun fact: I once solved over 890,000 traffic crash records for a single project!
+- ⚡ Fun fact: National math awardee and passionate about turning complex data into actionable insights!
