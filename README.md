@@ -12,3 +12,17 @@
 - 👨‍💻 All of my projects are available at: [GitHub](https://github.com/Ahmedayman55)
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ahmedayman2272003/)
 - ⚡ Fun fact: National math awardee and passionate about turning complex data into actionable insights!
+
+
+ech Stack
+Languages & Tools
+Python R Julia C++
+
+Data & Visualization
+Power BI Tableau
+
+Databases
+PostgreSQL SQL Server
+
+ML Tools & Platforms
+scikit-learn Linux
